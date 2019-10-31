@@ -1,4 +1,4 @@
-{"name":"icp4d-environments-api","hostname":"ax-environments-api-deploy-9d48bb6c6-gvtx8","pid":8,"level":30,"msg":"logging initialized","time":"2019-10-30T19:07:27.246Z","v":0}
+{"name":"icp4d-environments-api","hostname":"ax-environments-api-deploy-9d48bb6c6-gvtx8","pid":8,"level":30,"msg":"loggicsng initialized","time":"2019-10-30T19:07:27.246Z","v":0}
 {"name":"icp4d-environments-api","hostname":"ax-environments-api-deploy-9d48bb6c6-gvtx8","pid":8,"level":30,"port":"3860","https":true,"msg":"Server listening","time":"2019-10-30T19:07:28.505Z","v":0}
 {"name":"icp4d-environments-api","hostname":"ax-environments-api-deploy-9d48bb6c6-gvtx8","pid":8,"level":30,"msg":"Server started. Ready to accept requests.","time":"2019-10-30T19:07:28.511Z","v":0}
 {"name":"icp4d-environments-api","hostname":"ax-environments-api-deploy-9d48bb6c6-gvtx8","pid":8,"requestID":"EJV50TGqP","level":30,"req":{"method":"GET","originalUrl":"/v2/environments/monitor"},"msg":"incoming request","time":"2019-10-30T19:07:31.216Z","v":0}
